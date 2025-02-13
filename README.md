@@ -17,6 +17,6 @@
 ## 🎧 Music:
 *I'm currently working hard, listening to:*
 
-[![Spotify](https://novatorem-chi-lake.vercel.app/api/spotify)](https://open.spotify.com/user/karlgustav_ebert_løvendahl)
+[![Spotify](https://novatorem-chi-lake.vercel.app/api/spotify/?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/karlgustav_ebert_løvendahl)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
