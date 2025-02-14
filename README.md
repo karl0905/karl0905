@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karl0905&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎧 Music:
-*I'm currently working hard, listening to:*
+*Currently working hard, listening to:*
 
 [![Spotify](https://novatorem-chi-lake.vercel.app/api/spotify/?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/karlgustav_ebert_løvendahl)
 
